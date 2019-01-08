@@ -15,7 +15,7 @@ instructor: ["James Dejardins","Tim Ribaric"] # boxed, comma-separated list of i
 helper: ["Daniel Brett, John Fink"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["tribaric@brocku.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -45,6 +45,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   height="300px"
   scrolling="auto">
 </iframe>
+<a target="_blank" href="https://www.eventbrite.ca/e/sofware-carpentry-digital-scholarship-lab-brock-university-tickets-54591271964">Link to Sign-up</a>
 {% endif %}
 
 <h2 id="general">General Information</h2>
