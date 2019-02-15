@@ -222,7 +222,7 @@ eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite 
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
+      https://pad.carpentries.org/2019-02-21-brocku
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
@@ -599,6 +599,8 @@ eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
+
+{% comment %}
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -650,6 +652,8 @@ eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite 
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+{% endcomment %}
+
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
@@ -695,6 +699,9 @@ eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite 
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
+
+
+{% comment %}
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
@@ -742,6 +749,9 @@ eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite 
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+
+{% endcomment %}
+
 
 {% comment %}
 <div id="vm">
