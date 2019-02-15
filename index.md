@@ -222,7 +222,7 @@ eventbrite: "54591271964"           # optional: alphanumeric key for Eventbrite 
 
   If you want to use an Etherpad, go to
 
-      https://pad.carpentries.org/2019-02-21-brocku
+      https://pad.carpentries.org/YYYY-MM-DD-site
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
